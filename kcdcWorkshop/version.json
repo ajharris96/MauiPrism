@@ -1,0 +1,10 @@
+{
+    "$schema": "see below",
+    "version": "0.1",
+    "assemblyVersion":{
+        "precision": "revision"
+    },
+    "publicReleaseRefSpec":[
+        "^refs/heads/DefaultBranchName$"
+    ]
+}

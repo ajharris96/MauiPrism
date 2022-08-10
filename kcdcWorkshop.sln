@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kcdc", "build\kcdc.csproj", "{88A40870-5C40-4590-8711-B541C120F611}"
+EndProject
 Global
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A40870-5C40-4590-8711-B541C120F611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A40870-5C40-4590-8711-B541C120F611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E646F7-E0B2-43C6-9AA5-0ABCC56EA61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54E646F7-E0B2-43C6-9AA5-0ABCC56EA61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E646F7-E0B2-43C6-9AA5-0ABCC56EA61E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
